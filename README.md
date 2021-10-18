@@ -1,16 +1,18 @@
-### Hi there 👋
+## Oiie! Bem vindo(a) a meu perfil no Github :)
 
-<!--
-**i-dont-have-a-name/i-dont-have-a-name** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌎 **Brasil**
+- 📚 **Estudando C# e JS**
+- 🌱 **Iniciante :)**
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/i-dont-have-a-name">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i-dont-have-a-name&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-dont-have-a-name&layout=compact&langs_count=7&theme=radical"/>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/761308712576221285/899500491170521108/gifUm.gif?width=490&height=490">
+</div>
+  
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
