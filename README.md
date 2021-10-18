@@ -1,4 +1,4 @@
-## Oiie! Bem vindo(a) a meu perfil no Github :)
+## Oiie! Bem vindo(a) a meu perfil do Github :)
 
 - 🌎 **Brasil**
 - 📚 **Estudando JS**
