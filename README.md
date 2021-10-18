@@ -13,6 +13,4 @@
   
 ##
 
-<div>
-  ![Snake animation](https://github.com/i-dont-have-a-name/i-dont-have-a-name/blob/output/github-contribution-grid-snake.svg)
-</div>
+  ![Cobrinha](https://github.com/i-dont-have-a-name/i-dont-have-a-name/blob/output/github-contribution-grid-snake.svg)
