@@ -1,10 +1,8 @@
 ## Oiie! Bem vindo(a) a meu perfil do Github :)
 
-```
-- 🌎 **Brasil**
-- 📚 **Estudando JS**
-- 🌱 **Iniciante :)**
-```
+> - 🌎 **Brasil**
+> - 📚 **Estudando JS**
+> - 🌱 **Iniciante :)**
 
 ##
 
