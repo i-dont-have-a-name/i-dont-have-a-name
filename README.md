@@ -2,6 +2,7 @@
 
 > - 🌎 **Brasil**
 > - 📚 **Estudando JS**
+> - 📘 **Interesse em C#**
 > - 🌱 **Iniciante :)**
 
 ##
